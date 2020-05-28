@@ -1,5 +1,10 @@
 # dotfiles
 
+[![HitCount](http://hits.dwyl.io/AlbertSuarez/dotfiles.svg)](http://hits.dwyl.io/AlbertSuarez/dotfiles)
+[![GitHub stars](https://img.shields.io/github/stars/AlbertSuarez/dotfiles.svg)](https://GitHub.com/AlbertSuarez/dotfiles/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/AlbertSuarez/dotfiles.svg)](https://GitHub.com/AlbertSuarez/dotfiles/network/)
+[![GitHub contributors](https://img.shields.io/github/contributors/AlbertSuarez/dotfiles.svg)](https://GitHub.com/AlbertSuarez/dotfiles/graphs/contributors/)
+
 ⚫️ Personal dot files for MacOS X
 
 Simple as that. These files are working for the Catalina version of MacOS X, where you can find configuration stuff from:
